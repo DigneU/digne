@@ -1,0 +1,12 @@
+﻿html, body{
+	height:100%;
+	width: 100%;
+}
+.navbar{
+	background-color: blue;
+	padding: 1% 0;
+	font-size: 1.2em;
+}
+.navbar-brand{
+	min-height:55px;
+}
