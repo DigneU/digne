@@ -35,11 +35,11 @@ html,body{
 .landing-text h1{
 	font-size:500%;
 	font-weight: 700;
-	color: #011c4c;
+	color:#23415c;
 }
 .landing-text h3{
 	font-weight: 700;
-	color:#000a28;
+	color:#23415c;
 }
 .padding{
 	padding: 80px 0;
@@ -47,18 +47,11 @@ html,body{
 .padding img{
 	width: 100%;
 }
-#fixed{
-	background: url(img/background.jpg) no-repeat center center fixed;
-	display: table;
-	height:60%;
-	position: relative;
-	width: 100%;
-	background-size: cover;
-}
+
 footer{
 	width: 100%;
 	background-color: #23415c;
-	padding: 5% 5% 10% 5%;
+	padding: 5% 5% 5% 5%;
 	color: #fff;
 }
 .fa{
