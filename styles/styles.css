@@ -51,8 +51,9 @@ html,body{
 footer{
 	width: 100%;
 	background-color: #23415c;
-	padding: 5% 5% 5% 5%;
+	padding: 4% 4% 4% 4%;
 	color: #fff;
+	height: 50%;
 }
 .fa{
 	padding: 15px;
